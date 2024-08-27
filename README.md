@@ -1,1 +1,0 @@
-# Guvi_gpt2_model
